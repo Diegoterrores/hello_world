@@ -102,8 +102,6 @@ void loop(){
     waveform5.pulseWidth(knob_2);
     waveform6.pulseWidth(knob_2);
 
-Serial.print(knob_1);
-Serial.println();
 
 
 
